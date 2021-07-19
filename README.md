@@ -13,7 +13,7 @@
 	-	🦋 Java Script 
 	-	🦋 Bootstrap 
 	-	🦋 Popper 
--	🐛	The methodologies that I practice are 
+-	🐛	The methodologies that I practice are:
 	-	🦋 Agile 
 	-	🦋 Scrum 
 	-	🦋 Kanban
